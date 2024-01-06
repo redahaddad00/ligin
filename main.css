@@ -1,0 +1,26 @@
+body{
+    background-color: #24353F;
+}
+h1{
+    color: #17A2B8;
+}
+p{
+    color: whitesmoke;
+}
+button{
+    color: whitesmoke !important;
+
+
+}
+
+button:hover{
+    background-color: #17A2B8 !important;
+}
+
+#forgot{
+cursor: pointer;
+    color: white;
+}
+#forgot:hover{
+    color: #17A2B8 ;
+}
